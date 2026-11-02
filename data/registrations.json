@@ -1,0 +1,12 @@
+{
+  "students" : [ {
+    "id" : "33",
+    "name" : "aysha",
+    "email" : "aysha@gmail.com",
+    "department" : "bca",
+    "year" : 1
+  } ],
+  "courses" : [ ],
+  "faculties" : [ ],
+  "registrations" : [ ]
+}
